@@ -1,0 +1,28 @@
+  
+
+body{
+    margin: 0;
+  }
+  
+  h1{
+    font-family: Roboto, sans-serif;
+  }
+  .post-container{
+    line-height: 20px;
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+    background-color: #ffff;
+  }
+
+  .post-container .post-content{
+    width: 90%;
+    font-family: Roboto, sans-serif;
+    font-weight: normal;
+  }
+  .post-container .post{
+    line-height: 20px;
+    margin-left: 50px;
+    padding-top: 20px;
+    padding-left: 50px;
+  }
